@@ -11,7 +11,15 @@ The tabs container
 	/*
 	Set the value to 3 to move the tabbar below the navbar
 	*/
-	-moz-box-ordinal-group: 1 !important;
+	-moz-box-ordinal-group: 2 !important;
+}
+
+#nav-bar {
+    -moz-box-ordinal-group: 1 !important;
+}
+
+#PersonalToolbar {
+    -moz-box-ordinal-group: 3 !important;
 }
 
 #titlebar::after {

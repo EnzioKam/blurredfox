@@ -68,7 +68,7 @@
 	--bf-active-bg: #F2F2F266;
 	
 	--bf-icon-color: #F2F2F2;
-	--bf-tab-toolbar-bg: #000000AA;
+	--bf-tab-toolbar-bg: #00000076;
 	--bf-tab-selected-bg: #F2F2F210;
 	--bf-navbar-bg: var(--bf-bg);
 	--bf-urlbar-bg: var(--bf-bg);
@@ -78,6 +78,6 @@
 	--bf-sidebar-bg: var(--bf-bg);
 	--bf-sidebar-color: var(--bf-color);
 	
-	--bf-menupopup-bg: #000000AA;
+	--bf-menupopup-bg: #00000076;
 	--bf-menupopup-color: var(--bf-color);
 }
